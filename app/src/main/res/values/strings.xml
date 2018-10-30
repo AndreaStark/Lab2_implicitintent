@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2_implicitintent</string>
+    <string name="msg1">Visit TARUC</string>
+    <string name="msg2">Show Main</string>
+    <string name="msg3">Show Dial</string>
+    <string name="msg4">Show SendTo</string>
+</resources>
